@@ -1438,7 +1438,7 @@
 | 1436 | 抽 | TRỪU | CHUU | - | trừu tượng | extract, excel, choose the best |
 | 1437 | 披 | PHI | HI | - | mở ra | open |
 | 1438 | 狂 | CUỒNG | KYOO | kuru(u), kuru(oshii) | cuồng sát | go insane, lose one's head, lunatic |
-| 1439 | 癒 | DŨ | YU | - | chữa bệnh | heal, cure, recover |
+| 1439 | 癒 | DŨ | YU | iya(su) | chữa bệnh | heal, cure, recover |
 | 1440 | 淡 | ĐẠM | TAN | awa(i) | đạm bạc | light, faint, pale |
 | 1441 | 訂 | ĐÍNH | TEI | - | đính chính | correct |
 | 1442 | 緯 | VĨ | I | - | vĩ độ | woof, latitude, parallels of latitude |
